@@ -18,7 +18,7 @@ Bragança Paulista
 
 
 
-<strong> Resumo </strong>
+<h3>Resumo</h3>
 A ideia do projeto surgiu a partir do tema sobre manutenção e monitoramento em 
 equipamentos industriais. A durabilidade dos equipamentos é muito importante para o 
 processo produtivo das industrias. Mesmo que o equipamento possa apresentar uma 
