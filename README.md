@@ -8,13 +8,13 @@ Patrick Adriel Ribas<br>
 Percio Farinelli Zavan<br>
 Thiago Machado Dias de Souza<br>
 
-Prof. M.e Fabio Andrijauskas
-Pedro Fascina Casarin
-Orientador Online
-Gabriel Binotti
-Orientador Presencial
-Bragança Paulista
-2022
+Prof. M.e Fabio Andrijauskas<br>
+Pedro Fascina Casarin<br>
+Orientador Online<br>
+Gabriel Binotti<br>
+Orientador Presencial<br>
+Bragança Paulista<br>
+2022<br>
 
 
 
