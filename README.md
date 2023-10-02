@@ -3,10 +3,10 @@
 <SEMIPRESENCIAL>
 Prática Profissional: Ferramentas e Técnicas de Programação
 
-João Victor Nogueira Doratioto
-Patrick Adriel Ribas
-Percio Farinelli Zavan
-Thiago Machado Dias de Souza
+João Victor Nogueira Doratioto <br>
+Patrick Adriel Ribas<br>
+Percio Farinelli Zavan<br>
+Thiago Machado Dias de Souza<br>
 
 Prof. M.e Fabio Andrijauskas
 Pedro Fascina Casarin
