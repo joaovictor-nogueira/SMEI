@@ -1,12 +1,4 @@
 <h1>SMEI - Sistema de Monitoramento de Equipamento Industrial</h1>
-<h2>Curso de Análise e Desenvolvimento de Sistemas</h2>
-<SEMIPRESENCIAL>
-Prática Profissional: Ferramentas e Técnicas de Programação
-
-João Victor Nogueira Doratioto <br>
-Patrick Adriel Ribas<br>
-Percio Farinelli Zavan<br>
-Thiago Machado Dias de Souza<br>
 
 Prof. M.e Fabio Andrijauskas<br>
 Pedro Fascina Casarin<br>
